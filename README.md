@@ -4,11 +4,11 @@ Template Para a Python Week 2022 - 25 a 29 de Abril na Linux Tips
 
 ## Instruções
 
-Este repositório é um template de um projeto Python mínimo.  
+Este repositório é um template de um projeto Python mínimo.
 O programa se chama `beerlog` e está organizado com pastas
 e módulos, porém a maioria dos arquivos encontra-se vazio.
 
-A partir deste template você poderá acompanhar as lives  
+A partir deste template você poderá acompanhar as lives
 da Python week e programar junto com o Bruno e o Jeferson.
 
 ## Obtendo seu repositório
@@ -67,8 +67,8 @@ O comando a seguir ativa o ambiente virtual do poetry
 poetry shell
 ```
 
-> **IMPORTANTE** o ambiente precisa estar ativado para o programa executar.  
-> No terminal aparecerá algo como  
+> **IMPORTANTE** o ambiente precisa estar ativado para o programa executar.
+> No terminal aparecerá algo como
 > `(beerlog-DlEBh_72-py3.8) gitpod /workspace/python-week-2022 (main) $`
 
 Executando o programa
@@ -101,7 +101,7 @@ Ou execute `source start_poetry` que é um script que automatiza os comandos aci
 Após ativar o poetry digite no terminal
 
 ```
-which python 
+which python
 ```
 A saida será algo como
 
@@ -115,3 +115,8 @@ Agora digite `F1` no gitpod ou `Ctrl + Shift + P` no Vscode local e selectione a
 Cole o path `/home/gitpod/.cache/pypoetry/virtualenvs/beerlog-DlEBh_72-py3.8/bin/python` e digite enter.
 
 > **OBS**: Pode ser que o caminho seja outro, o importante é terminar com `/bin/python`
+
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
