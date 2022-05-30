@@ -9,7 +9,6 @@ tasks:
       poetry install &&
       poetry shell &&
       beerlog
-
 # Ports to expose on workspace startup
 # ports:
 #   - port: 8000
