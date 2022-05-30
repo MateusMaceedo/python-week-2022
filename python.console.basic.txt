@@ -1,0 +1,15 @@
+Princípios basicos:
+
+O Python é totalmente orientado a objetos, pode ser usado no desenvolvimento de serviços, games, sites, API, Backend e frontend com (Web Assembly).
+
+1. Expressão, qualquer coisa digitada como imput, e obtenho um valor de volta, como output.
+
+- Literal: 4 + 4 = 8
+- Expressões Aritmeticas
+- Expressões com funcões: "Mateus".upper()
+
+2.
+
+3.
+
+4.
